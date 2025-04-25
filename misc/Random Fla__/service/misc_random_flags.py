@@ -1,3 +1,5 @@
+#!/usr/local/bin/python
+
 import random
 
 flag = [0]*700
