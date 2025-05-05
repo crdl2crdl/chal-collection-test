@@ -1,0 +1,7 @@
+services:
+  challenge:
+    container_name: misc-random-fla__
+    build: ./service
+    ports:
+      - 8022:22
+    privileged: true
